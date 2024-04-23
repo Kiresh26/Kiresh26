@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kiresh26
-- 🌱 I’m currently learning Full stack software engineering through ALX
 - 💞️ I’m looking to collaborate on Linux commands
 - 📫 How to reach me kiresh26@gmail.com
 
